@@ -34,3 +34,4 @@ This gives your images the correct placements of where they should be by using t
 <b>getItemId</b> - Returns row ID<br>
 
 ## Example Project
+You can find my example here on my repository. With my example I have 2 java files and 1 xml file. The 2 java files all relate to the main functionality of the gridView, however the images implemented in this example are optional and are not a requirement for a functioning gridView. If you plan on using intents you may have to add statements that inform your program to call the correct ItemID to bring to the correct intent. Another thing is that the images used in this example are all added to drawable and are all called from the 2nd java file (in this example is ImageChange.java).  
