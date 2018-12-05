@@ -27,10 +27,10 @@ BaseAdapter will allow the gridView to have basic implementation of adapter.<br>
 <b>public View getView(int position, View convertView, ViewGroup parent)</b><br>
 This gives your images the correct placements of where they should be by using the item ID position. Also it gives the developer options to how big they want their images to be.<br>
 
-Additional methods that are used, but are not absolutely neccessary.<br>
+<b>Additional methods that are used, but are not absolutely neccessary.<b><br>
 
-getItem() - Will give the developer the item position on the gridView<br>
+<b>getItem()</b> - Will give the developer the item position on the gridView<br>
 
-getItemId - Returns row ID<br>
+<b>getItemId</b> - Returns row ID<br>
 
 ## Example Project
