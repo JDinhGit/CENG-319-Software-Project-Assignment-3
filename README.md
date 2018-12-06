@@ -42,4 +42,8 @@ Additional methods that are used, but are not absolutely necessary.<br>
 In the example provided in the repository, there are 2 java files and 1 xml file. The 2 java files all relate to the main functionality of the gridView, however the images implemented in this example are optional and are not a requirement for a functioning gridView. If planned on using intents you may have to add statements that inform your program to call the correct ItemID to bring to the correct intent. Another thing is that the images used in this example are all added to drawable and are all called from the 2nd java file (in this example is ImageChange.java).<br>
 
 ## Reference
-
+https://developer.android.com/guide/topics/ui/declaring-layout#AdapterViews<br>
+https://developer.android.com/reference/android/widget/BaseAdapter<br>
+https://developer.android.com/reference/<br>
+https://developer.android.com/reference/android/widget/AdapterView<br>
+https://developer.android.com/reference/android/widget/GridLayout<br>
